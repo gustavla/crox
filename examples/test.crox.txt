@@ -1,0 +1,14 @@
+:include foo.crox
+:define TEST test-variable
+:begin bar x y
+Function bar with parameters $x, $y 
+... and global $TEST.
+:end
+This is a test.
+
+Calling foo:
+:call foo test
+
+Calling bar:
+:call bar 30 'test'
+:call bar 10 20

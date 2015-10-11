@@ -1,0 +1,3 @@
+:begin foo x
+This is the function foo with parameter ${x}!
+:end
