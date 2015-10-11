@@ -16,7 +16,7 @@ CLASSIFIERS = [
 
 args = dict(
     name='crox',
-    version='0.1.0',
+    version='0.1.1',
     url="https://github.com/gustavla/crox",
     description="Light-weight general-purpose macro expander",
     maintainer='Gustav Larsson',
