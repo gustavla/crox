@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-from __future__ import division, print_function, absolute_import 
+from __future__ import division, print_function, absolute_import
 
 from setuptools import setup
 import os
@@ -21,7 +21,6 @@ args = dict(
     description="Light-weight general-purpose macro expander",
     maintainer='Gustav Larsson',
     maintainer_email='gustav.m.larsson@gmail.com',
-    install_requires=required,
     scripts=['scripts/crox'],
     packages=[
         'crox',
