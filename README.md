@@ -51,7 +51,7 @@ Ex:
     
 ### Call function
 
-    :call <function name> <arg1> <arg2>
+    :call <function name> <arg 1> <arg 2> ...
   
 Ex:
   
