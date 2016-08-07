@@ -12,3 +12,9 @@ Calling foo:
 Calling bar:
 :call bar 30 'test'
 :call bar 10 20
+
+
+:define-eval SUM 30 + 20
+
+SUM: $SUM
+
